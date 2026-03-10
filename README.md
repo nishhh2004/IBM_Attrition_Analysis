@@ -64,28 +64,28 @@ IBM_Attrition_Analysis/
 ## 📊 Visualizations
 
 ### Plot 1 — Overall Attrition Split
-![plot1](plots/plot1_attrition_overview.png)
+![plot1](plot1_attrition_overview.png)
 
 ### Plot 2 — Attrition by Department & Job Role
-![plot2](plots/plot2_department_jobrole.png)
+![plot2](plot2_department_jobrole.png)
 
 ### Plot 3 — Salary Distribution
-![plot3](plots/plot3_salary_distribution.png)
+![plot3](plot3_salary_distribution.png)
 
 ### Plot 4 — Overtime Impact
-![plot4](plots/plot4_overtime_pie.png)
+![plot4](plot4_overtime_pie.png)
 
 ### Plot 5 — Job Satisfaction & Work Life Balance
-![plot5](plots/plot5_satisfaction_lineplot.png)
+![plot5](plot5_satisfaction_lineplot.png)
 
 ### Plot 6 — Demographics
-![plot6](plots/plot6_demographics.png)
+![plot6](plot6_demographics.png)
 
 ### Plot 7 — Business Travel
-![plot7](plots/plot7_business_travel.png)
+![plot7](plot7_business_travel.png)
 
 ### Plot 8 — Correlation Heatmap
-![plot8](plots/plot8_correlation_heatmap.png)
+![plot8](plot8_correlation_heatmap.png)
 
 ---
 
