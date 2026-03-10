@@ -101,7 +101,7 @@ git clone https://github.com/nishhh2004/IBM_Attrition_Analysis.git
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Download dataset from Kaggle and place it in `data/` folder as `IBM.csv`
+3. Download dataset from Kaggle and rename it as `IBM.csv`
 
 4. Open `IBM_Attrition.ipynb` in Jupyter or Google Colab and run all cells
 
