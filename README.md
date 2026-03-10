@@ -33,7 +33,7 @@ Employee attrition costs companies millions every year through recruitment, trai
 
 ## 📁 Folder Structure
 ```
-IBM_attrition/
+IBM_Attrition_Analysis/
 │
 |IBM.csv
 │plot1_attrition_overview.png
@@ -93,7 +93,7 @@ IBM_attrition/
 
 1. Clone the repo
 ```bash
-git clone https://github.com/nishhh2004/IBM_attrition.git
+git clone https://github.com/nishhh2004/IBM_Attrition_Analysis.git
 ```
 
 2. Install libraries
@@ -133,5 +133,5 @@ pip install pandas numpy matplotlib seaborn
 ---
 
 ## 🙋 Author
-**Your Name**
+**Nishanth MS**
 [LinkedIn](https://linkedin.com/in/nishanth-ms) | [GitHub](https://github.com/nishhh2004)
