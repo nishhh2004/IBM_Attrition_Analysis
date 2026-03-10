@@ -35,20 +35,16 @@ Employee attrition costs companies millions every year through recruitment, trai
 ```
 IBM_attrition/
 │
-├── data/
-│   └── IBM.csv
-│
-├── plots/
-│   ├── plot1_attrition_overview.png
-│   ├── plot2_department_jobrole.png
-│   ├── plot3_salary_distribution.png
-│   ├── plot4_overtime_pie.png
-│   ├── plot5_satisfaction_lineplot.png
-│   ├── plot6_demographics.png
-│   ├── plot7_business_travel.png
-│   └── plot8_correlation_heatmap.png
-│
-├── IBM_Attrition.ipynb
+|IBM.csv
+│plot1_attrition_overview.png
+│plot2_department_jobrole.png
+│plot3_salary_distribution.png
+│plot4_overtime_pie.png
+│plot5_satisfaction_lineplot.png
+│plot6_demographics.png
+│plot7_business_travel.png
+│plot8_correlation_heatmap.png
+│IBM_Attrition.ipynb
 └── README.md
 ```
 
