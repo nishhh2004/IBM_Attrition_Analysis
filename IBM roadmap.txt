@@ -1,0 +1,69 @@
+Phase 1: Setup 
+
+ Download dataset from Kaggle
+ Create project folder structure
+ Install libraries: pandas, numpy, matplotlib, seaborn
+ Load CSV and do a quick df.head()
+
+Phase 2: EDA
+
+ Check shape, dtypes, missing values
+ Descriptive statistics
+ Target variable distribution
+ Value counts for all categorical columns
+ Correlation matrix
+ Identify high-risk segments
+
+Phase 3 Visualizations:
+
+Plot 1 — barplot showing overall attrition split
+Plot 2 — heatmap showing attrition by department and job role
+Plot 3 — Histogram comparing salary of stayed vs left employees
+Plot 4 — pie chart showing overtime vs non-overtime attrition
+Plot 5 — line plot showing attrition by job satisfaction and work-life balance
+Plot 6 — countplot showing attrition by age, gender, marital status
+Plot 7 — stacked bar showing attrition by business travel frequency
+Plot 8 — Full correlation heatmap of all numerical features vs attrition
+
+Phase 4: Insights & Recommendations (20 mins)
+
+ Write 5–7 key business findings
+ Identify top risk factors
+ Write actionable HR recommendations
+ Build a final summary scorecard
+
+ Phase 5: GitHub README (20 mins)
+Your README should have:
+
+ Project title + banner image
+ Problem statement
+ Dataset source link
+ Tech stack badges
+ Folder structure
+ Key insights (bullet points)
+ Screenshots of all plots
+ How to run the project
+
+Phase 6: LinkedIn Post 
+🔍 I analyzed IBM's HR dataset to find out 
+   WHY employees quit...
+
+Here's what I found 👇
+
+📌 Insight 1 — Overtime employees are 3x more likely to quit
+📌 Insight 2 — Sales dept has highest attrition (21%)
+📌 Insight 3 — Employees earning <$3K leave 26% of the time
+📌 Insight 4 — Frequent travelers quit at 25% rate
+📌 Insight 5 — Age 18–25 is the most at-risk group
+
+🛠 Tech used: Python | pandas | matplotlib | seaborn
+
+💻 Full code on GitHub → [link]
+
+#DataScience #Python #EDA #HR #Analytics
+
+Phase 7: Resume Entry
+Employee Attrition Analysis | Python, Pandas, Matplotlib, Seaborn | GitHub
+
+Analyzed IBM HR dataset (1,470 employees) to identify attrition drivers through EDA and 8 business-focused visualizations
+Uncovered that overtime + low salary segments have 3x higher attrition; delivered actionable recommendations to HR stakeholders
